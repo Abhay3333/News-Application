@@ -69,7 +69,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries, please contact [Abhay Upadhaya](abhayupadhaya829@gmail.com).
+For any inquiries, please contact [Abhay3333](abhayupadhaya829@gmail.com).
 
 ---
 
