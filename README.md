@@ -1,10 +1,8 @@
-
 # SIMPLE NEWS APPLICATION
 
 Certainly! Below is a basic template for a README file. Make sure to customize it based on the specifics of your project.
 
 ---
-
 
 ## Description
 
@@ -56,8 +54,6 @@ npm run dev
 
 [News API](https://newsapi.org/)
 
-
-
 ## Contributing
 
 Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
@@ -73,7 +69,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries, please contact [Your Name](abhayupadhaya829@gmail.com).
+For any inquiries, please contact [Abhay Upadhaya](abhayupadhaya829@gmail.com).
 
 ---
 
